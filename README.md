@@ -1,6 +1,8 @@
 # dsb-batch11
 Data Science Bootcamp Projects
 
+This bootcamp is cool.
+
 This bootcamp runs about 4 months, 10 sprints.
 
 - Google Sheets
@@ -11,7 +13,7 @@ This bootcamp runs about 4 months, 10 sprints.
 - Statistics
 - Machine Learning
 - Website with WordPress
-- Python
+- Python for data analyst
 - Dashboard
 
 Email: saharath.ohm@gmail.com
